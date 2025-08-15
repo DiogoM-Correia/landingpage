@@ -7,8 +7,8 @@ const AboutPage: React.FC = () => {
       <div className="about-content">
         <div className="about-image-section">
           <img 
-            src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" 
-            alt="About us representation"
+            src="https://images.unsplash.com/photo-1559136555-9303baea8ebd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80" 
+            alt="Professional business team collaboration"
             className="about-image"
           />
         </div>
